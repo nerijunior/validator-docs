@@ -6,6 +6,10 @@
     {
       "name": "Daniel Rodrigues Lima",
       "email": "geekcom@php.net"
+    },
+    {
+      "name": "Neri J. Jakubowski Jr.",
+      "email": "neri@nerijunior.com"
     }
   ],
   "require": {
